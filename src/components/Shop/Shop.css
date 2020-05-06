@@ -7,3 +7,10 @@
     margin-right:5px;
     border-right:1px solid lightgray;
 }
+.main-button{
+    background-color:goldenrod;
+    width:150px;
+    height:30px;
+    border:1px solid;
+    border-radius:5px;
+}
